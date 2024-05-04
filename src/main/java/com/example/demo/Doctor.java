@@ -10,5 +10,9 @@ public class Doctor implements Employee {
 		// TODO Auto-generated method stub
 		return "Doctor";
 	}
+	public String getMethod() {
+		// TODO Auto-generated method stub
+		return "Name : Santhosh";
+	}
 
 }
